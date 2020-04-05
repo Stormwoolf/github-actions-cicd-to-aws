@@ -15,7 +15,7 @@ env:
   AWS_REGION_NAME           : "eu-central-1"
 
 on: 
-  #push:
+  push:
     branches: 
       - master
 
