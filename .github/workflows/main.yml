@@ -15,7 +15,7 @@ env:
   AWS_REGION_NAME           : "us-west-2"
 
 on: 
-  push:
+  #push:
     branches: 
       - master
 
